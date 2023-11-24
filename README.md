@@ -27,3 +27,6 @@ PORT=3001
 ### nerd-cuca-web
 `npm install`
 `npm start`
+
+## Slides
+A apresentação está disponível [aqui](apresentacao.pdf)
